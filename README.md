@@ -1,4 +1,6 @@
 # go_practice
-This is a small to-do app which I've built using Golang.
 
-The objective of this project was to learn the basic syntax of Golang by applying the fundamentals of the language.
+These are a series of files in which I have practiced coding with Golang.
+
+All the Go lang fundamentals were covered from a course by Tech with Tim on YouTube
+Link: https://youtu.be/V-lI7AmusGs?si=OZoYWX8NdkRvBAJ0
