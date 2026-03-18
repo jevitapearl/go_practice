@@ -4,4 +4,7 @@ func main() {
 	// variables()
 	// conditionalsAndLoops()
 	// arrays()
+	// slices()
+	// goMap()
+	functions()
 }
