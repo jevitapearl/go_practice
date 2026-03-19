@@ -7,5 +7,6 @@ func main() {
 	// slices()
 	// goMap()
 	// functions()
-	structures()
+	// structures()
+	errors()
 }
