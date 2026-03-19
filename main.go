@@ -8,5 +8,5 @@ func main() {
 	// goMap()
 	// functions()
 	// structures()
-	errors()
+	// errors()
 }
