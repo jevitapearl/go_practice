@@ -6,5 +6,6 @@ func main() {
 	// arrays()
 	// slices()
 	// goMap()
-	functions()
+	// functions()
+	structures()
 }
